@@ -1,0 +1,284 @@
+{
+    "subjects": [
+      {
+        "name": "Accounting",
+        "code": "9706",
+        "credit": 3,
+        "price": 200,
+        "id": 1
+      },
+      {
+        "name": "Afrikaans - Language (AS Level only)",
+        "code": "8679",
+        "credit": 5,
+        "price": 150,
+        "id": 2
+      },
+      {
+        "name": "Arabic",
+        "code": "9680",
+        "credit": 3,
+        "price": 200,
+        "id": 3
+      },
+      {
+        "name": "Arabic - Language (AS Level only)",
+        "code": "8680",
+        "credit": 3,
+        "price": 200,
+        "id": 4
+      },
+      {
+        "name": "Art & Design",
+        "code": "9479",
+        "credit": 4,
+        "price": 200,
+        "id": 5
+      },
+      {
+        "name": "Biblical Studies",
+        "code": "9484",
+        "credit": 4,
+        "price": 200,
+        "id": 6
+      },
+      {
+        "name": "Biology",
+        "code": "9700",
+        "credit": 4,
+        "price": 150,
+        "id": 7
+      },
+      {
+        "name": "Business",
+        "code": "9609",
+        "credit": 4,
+        "price": 150,
+        "id": 8
+      },
+      {
+        "name": "Chemistry",
+        "code": "9701",
+        "credit": 3,
+        "price": 150,
+        "id": 9
+      },
+      {
+        "name": "Chinese - Language & Literature (A Level only)",
+        "code": "9868",
+        "credit": 3,
+        "price": 150,
+        "id": 10
+      },
+      {
+        "name": "Chinese - Language (AS Level only)",
+        "code": "8681",
+        "credit": 3,
+        "price": 100,
+        "id": 11
+      },
+      {
+        "name": "Chinese (A Level only)",
+        "code": "9715",
+        "credit": 4,
+        "price": 200,
+        "id": 12
+      },
+      {
+        "name": "Chinese Language (AS Level only)",
+        "code": "8238",
+        "credit": 5,
+        "price": 100,
+        "id": 13
+      },
+      {
+        "name": "Classical Studies",
+        "code": "9274",
+        "credit": 4,
+        "price": 100,
+        "id": 14
+      },
+      {
+        "name": "Computer Science",
+        "code": "9618",
+        "credit": 4,
+        "price": 100,
+        "id": 15
+      },
+      {
+        "name": "Design & Technology",
+        "code": "9705",
+        "credit": 5,
+        "price": 100,
+        "id": 16
+      },
+      {
+        "name": "Design & Textiles",
+        "code": "9631",
+        "credit": 3,
+        "price": 150,
+        "id": 17
+      },
+      {
+        "name": "Digital Media & Design",
+        "code": "9481",
+        "credit": 4,
+        "price": 100,
+        "id": 18
+      },
+      {
+        "name": "Drama",
+        "code": "9482",
+        "credit": 4,
+        "price": 150,
+        "id": 19
+      },
+      {
+        "name": "Economics",
+        "code": "9708",
+        "credit": 3,
+        "price": 100,
+        "id": 20
+      },
+      {
+        "name": "English - Language and Literature (AS Level only)",
+        "code": "8695",
+        "credit": 3,
+        "price": 150,
+        "id": 21
+      },
+      {
+        "name": "English - Literature",
+        "code": "9695",
+        "credit": 5,
+        "price": 100,
+        "id": 22
+      },
+      {
+        "name": "English General Paper (AS Level only)",
+        "code": "8021",
+        "credit": 3,
+        "price": 100,
+        "id": 23
+      },
+      {
+        "name": "English Language",
+        "code": "9093",
+        "credit": 3,
+        "price": 150,
+        "id": 24
+      },
+      {
+        "name": "Environmental Management (AS only)",
+        "code": "8291",
+        "credit": 5,
+        "price": 200,
+        "id": 25
+      },
+      {
+        "name": "French - Language (AS Level only)",
+        "code": "8682",
+        "credit": 3,
+        "price": 150,
+        "id": 26
+      },
+      {
+        "name": "French (A Level only)",
+        "code": "9716",
+        "credit": 3,
+        "price": 200,
+        "id": 27
+      },
+      {
+        "name": "French Language & Literature",
+        "code": "9898",
+        "credit": 4,
+        "price": 200,
+        "id": 28
+      },
+      {
+        "name": "French Language (AS Level only)",
+        "code": "8028",
+        "credit": 3,
+        "price": 150,
+        "id": 29
+      },
+      {
+        "name": "Geography",
+        "code": "9696",
+        "credit": 4,
+        "price": 150,
+        "id": 30
+      },
+      {
+        "name": "German - Language (AS Level only)",
+        "code": "8027",
+        "credit": 4,
+        "price": 200,
+        "id": 31
+      },
+      {
+        "name": "German - Language (AS Level only)",
+        "code": "8683",
+        "credit": 4,
+        "price": 200,
+        "id": 32
+      },
+      {
+        "name": "German (A Level only)",
+        "code": "9717",
+        "credit": 5,
+        "price": 150,
+        "id": 33
+      },
+      {
+        "name": "German Language & Literature (A Level only)",
+        "code": "9897",
+        "credit": 5,
+        "price": 100,
+        "id": 34
+      },
+      {
+        "name": "Global Perspectives & Research",
+        "code": "9239",
+        "credit": 4,
+        "price": 200,
+        "id": 35
+      },
+      {
+        "name": "Hindi - Language (AS Level only)",
+        "code": "8687",
+        "credit": 4,
+        "price": 100,
+        "id": 36
+      },
+      {
+        "name": "Hindi - Literature (AS Level only)",
+        "code": "8675",
+        "credit": 4,
+        "price": 200,
+        "id": 37
+      },
+      {
+        "name": "Hindi (A Level only)",
+        "code": "9687",
+        "credit": 3,
+        "price": 200,
+        "id": 38
+      },
+      {
+        "name": "Hinduism",
+        "code": "9487",
+        "credit": 3,
+        "price": 100,
+        "id": 39
+      },
+      {
+        "name": "History",
+        "code": "9489",
+        "credit": 3,
+        "price": 100,
+        "id": 40
+      }
+    ]
+  }

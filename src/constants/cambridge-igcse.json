@@ -1,0 +1,697 @@
+{
+  "subjects": [
+    {
+      "code": "0452",
+      "name": "Accounting",
+      "credit": 4,
+      "price": 150,
+      "id": 1
+    },
+    {
+      "code": "0985",
+      "name": "Accounting (9-1)",
+      "credit": 5,
+      "price": 100,
+      "id": 2
+    },
+    {
+      "code": "0548",
+      "name": "Afrikaans - Second Language",
+      "credit": 5,
+      "price": 100,
+      "id": 3
+    },
+    {
+      "code": "0600",
+      "name": "Agriculture",
+      "credit": 4,
+      "price": 150,
+      "id": 4
+    },
+    {
+      "code": "0508",
+      "name": "Arabic - First Language",
+      "credit": 4,
+      "price": 100,
+      "id": 5
+    },
+    {
+      "code": "7184",
+      "name": "Arabic - First Language (9-1)",
+      "credit": 3,
+      "price": 200,
+      "id": 6
+    },
+    {
+      "code": "0544",
+      "name": "Arabic - Foreign Language",
+      "credit": 3,
+      "price": 100,
+      "id": 7
+    },
+    {
+      "code": "0400",
+      "name": "Art & Design",
+      "credit": 3,
+      "price": 100,
+      "id": 8
+    },
+    {
+      "code": "0989",
+      "name": "Art & Design (9-1)",
+      "credit": 4,
+      "price": 100,
+      "id": 9
+    },
+    {
+      "code": "0538",
+      "name": "Bahasa Indonesia",
+      "credit": 4,
+      "price": 200,
+      "id": 10
+    },
+    {
+      "code": "0610",
+      "name": "Biology",
+      "credit": 5,
+      "price": 150,
+      "id": 11
+    },
+    {
+      "code": "0970",
+      "name": "Biology (9-1)",
+      "credit": 5,
+      "price": 100,
+      "id": 12
+    },
+    {
+      "code": "0450",
+      "name": "Business Studies",
+      "credit": 3,
+      "price": 100,
+      "id": 13
+    },
+    {
+      "code": "0986",
+      "name": "Business Studies (9-1)",
+      "credit": 3,
+      "price": 100,
+      "id": 14
+    },
+    {
+      "code": "0620",
+      "name": "Chemistry",
+      "credit": 5,
+      "price": 150,
+      "id": 15
+    },
+    {
+      "code": "0971",
+      "name": "Chemistry (9-1)",
+      "credit": 5,
+      "price": 200,
+      "id": 16
+    },
+    {
+      "code": "0509",
+      "name": "Chinese - First Language",
+      "credit": 3,
+      "price": 200,
+      "id": 17
+    },
+    {
+      "code": "0523",
+      "name": "Chinese - Second Language",
+      "credit": 4,
+      "price": 150,
+      "id": 18
+    },
+    {
+      "code": "0547",
+      "name": "Chinese (Mandarin) - Foreign Language",
+      "credit": 4,
+      "price": 100,
+      "id": 19
+    },
+    {
+      "code": "0478",
+      "name": "Computer Science",
+      "credit": 4,
+      "price": 100,
+      "id": 20
+    },
+    {
+      "code": "0984",
+      "name": "Computer Science (9-1)",
+      "credit": 3,
+      "price": 100,
+      "id": 21
+    },
+    {
+      "code": "0445",
+      "name": "Design & Technology",
+      "credit": 3,
+      "price": 150,
+      "id": 22
+    },
+    {
+      "code": "0979",
+      "name": "Design & Technology (9-1)",
+      "credit": 4,
+      "price": 150,
+      "id": 23
+    },
+    {
+      "code": "0411",
+      "name": "Drama",
+      "credit": 5,
+      "price": 200,
+      "id": 24
+    },
+    {
+      "code": "0994",
+      "name": "Drama (9-1)",
+      "credit": 5,
+      "price": 150,
+      "id": 25
+    },
+    {
+      "code": "0455",
+      "name": "Economics",
+      "credit": 3,
+      "price": 150,
+      "id": 26
+    },
+    {
+      "code": "0987",
+      "name": "Economics (9-1)",
+      "credit": 4,
+      "price": 100,
+      "id": 27
+    },
+    {
+      "code": "0500",
+      "name": "English - First Language",
+      "credit": 4,
+      "price": 200,
+      "id": 28
+    },
+    {
+      "code": "0990",
+      "name": "English - First Language (9-1)",
+      "credit": 5,
+      "price": 150,
+      "id": 29
+    },
+    {
+      "code": "0524",
+      "name": "English - First Language (US)",
+      "credit": 5,
+      "price": 100,
+      "id": 30
+    },
+    {
+      "code": "0427",
+      "name": "English \u2013 Literature (US)",
+      "credit": 3,
+      "price": 200,
+      "id": 31
+    },
+    {
+      "code": "0475",
+      "name": "English \u2013 Literature in English",
+      "credit": 4,
+      "price": 150,
+      "id": 32
+    },
+    {
+      "code": "0992",
+      "name": "English \u2013 Literature in English (9-1)",
+      "credit": 3,
+      "price": 200,
+      "id": 33
+    },
+    {
+      "code": "0472",
+      "name": "English (as an Additional Language)",
+      "credit": 4,
+      "price": 100,
+      "id": 34
+    },
+    {
+      "code": "0772",
+      "name": "English (as an Additional Language) (9-1)",
+      "credit": 3,
+      "price": 150,
+      "id": 35
+    },
+    {
+      "code": "0465",
+      "name": "English (Core) as a Second Language (Egypt)",
+      "credit": 3,
+      "price": 100,
+      "id": 36
+    },
+    {
+      "code": "0511",
+      "name": "English as a Second Language (Count-in speaking)",
+      "credit": 3,
+      "price": 150,
+      "id": 37
+    },
+    {
+      "code": "0991",
+      "name": "English as a Second Language (Count-in Speaking) (9-1)",
+      "credit": 3,
+      "price": 150,
+      "id": 38
+    },
+    {
+      "code": "0510",
+      "name": "English as a Second Language (Speaking endorsement)",
+      "credit": 3,
+      "price": 200,
+      "id": 39
+    },
+    {
+      "code": "0993",
+      "name": "English as a Second Language (Speaking Endorsement) (9-1)",
+      "credit": 3,
+      "price": 100,
+      "id": 40
+    },
+    {
+      "code": "0454",
+      "name": "Enterprise",
+      "credit": 5,
+      "price": 150,
+      "id": 41
+    },
+    {
+      "code": "0680",
+      "name": "Environmental Management",
+      "credit": 5,
+      "price": 200,
+      "id": 42
+    },
+    {
+      "code": "0648",
+      "name": "Food & Nutrition",
+      "credit": 5,
+      "price": 200,
+      "id": 43
+    },
+    {
+      "code": "0501",
+      "name": "French - First Language",
+      "credit": 3,
+      "price": 200,
+      "id": 44
+    },
+    {
+      "code": "0520",
+      "name": "French - Foreign Language",
+      "credit": 4,
+      "price": 200,
+      "id": 45
+    },
+    {
+      "code": "7156",
+      "name": "French (9-1)",
+      "credit": 5,
+      "price": 150,
+      "id": 46
+    },
+    {
+      "code": "0460",
+      "name": "Geography",
+      "credit": 3,
+      "price": 150,
+      "id": 47
+    },
+    {
+      "code": "0976",
+      "name": "Geography (9-1)",
+      "credit": 4,
+      "price": 200,
+      "id": 48
+    },
+    {
+      "code": "0505",
+      "name": "German - First Language",
+      "credit": 5,
+      "price": 100,
+      "id": 49
+    },
+    {
+      "code": "0525",
+      "name": "German - Foreign Language",
+      "credit": 3,
+      "price": 100,
+      "id": 50
+    },
+    {
+      "code": "7159",
+      "name": "German (9-1)",
+      "credit": 3,
+      "price": 100,
+      "id": 51
+    },
+    {
+      "code": "0457",
+      "name": "Global Perspectives",
+      "credit": 5,
+      "price": 100,
+      "id": 52
+    },
+    {
+      "code": "0549",
+      "name": "Hindi as a Second Language",
+      "credit": 5,
+      "price": 100,
+      "id": 53
+    },
+    {
+      "code": "0470",
+      "name": "History",
+      "credit": 4,
+      "price": 100,
+      "id": 54
+    },
+    {
+      "code": "0409",
+      "name": "History - American (US)",
+      "credit": 3,
+      "price": 150,
+      "id": 55
+    },
+    {
+      "code": "0977",
+      "name": "History (9-1)",
+      "credit": 4,
+      "price": 150,
+      "id": 56
+    },
+    {
+      "code": "0417",
+      "name": "Information and Communication Technology",
+      "credit": 4,
+      "price": 100,
+      "id": 57
+    },
+    {
+      "code": "0983",
+      "name": "Information and Communication Technology (9-1)",
+      "credit": 5,
+      "price": 100,
+      "id": 58
+    },
+    {
+      "code": "0531",
+      "name": "IsiZulu as a Second Language",
+      "credit": 4,
+      "price": 100,
+      "id": 59
+    },
+    {
+      "code": "0493",
+      "name": "Islamiyat",
+      "credit": 4,
+      "price": 150,
+      "id": 60
+    },
+    {
+      "code": "0535",
+      "name": "Italian - Foreign Language",
+      "credit": 5,
+      "price": 200,
+      "id": 61
+    },
+    {
+      "code": "7164",
+      "name": "Italian (9-1)",
+      "credit": 4,
+      "price": 150,
+      "id": 62
+    },
+    {
+      "code": "0480",
+      "name": "Latin",
+      "credit": 5,
+      "price": 150,
+      "id": 63
+    },
+    {
+      "code": "0696",
+      "name": "Malay - First Language",
+      "credit": 3,
+      "price": 200,
+      "id": 64
+    },
+    {
+      "code": "0546",
+      "name": "Malay - Foreign Language",
+      "credit": 4,
+      "price": 100,
+      "id": 65
+    },
+    {
+      "code": "0697",
+      "name": "Marine Science",
+      "credit": 5,
+      "price": 200,
+      "id": 66
+    },
+    {
+      "code": "0580",
+      "name": "Mathematics",
+      "credit": 3,
+      "price": 100,
+      "id": 67
+    },
+    {
+      "code": "0606",
+      "name": "Mathematics - Additional",
+      "credit": 4,
+      "price": 100,
+      "id": 68
+    },
+    {
+      "code": "0607",
+      "name": "Mathematics - International",
+      "credit": 4,
+      "price": 100,
+      "id": 69
+    },
+    {
+      "code": "0980",
+      "name": "Mathematics (9-1)",
+      "credit": 5,
+      "price": 200,
+      "id": 70
+    },
+    {
+      "code": "0444",
+      "name": "Mathematics (US)",
+      "credit": 3,
+      "price": 100,
+      "id": 71
+    },
+    {
+      "code": "0410",
+      "name": "Music",
+      "credit": 5,
+      "price": 150,
+      "id": 72
+    },
+    {
+      "code": "0978",
+      "name": "Music (9-1)",
+      "credit": 5,
+      "price": 100,
+      "id": 73
+    },
+    {
+      "code": "0448",
+      "name": "Pakistan Studies",
+      "credit": 4,
+      "price": 200,
+      "id": 74
+    },
+    {
+      "code": "0413",
+      "name": "Physical Education",
+      "credit": 5,
+      "price": 150,
+      "id": 75
+    },
+    {
+      "code": "0995",
+      "name": "Physical Education (9-1)",
+      "credit": 5,
+      "price": 100,
+      "id": 76
+    },
+    {
+      "code": "0652",
+      "name": "Physical Science",
+      "credit": 4,
+      "price": 200,
+      "id": 77
+    },
+    {
+      "code": "0625",
+      "name": "Physics",
+      "credit": 4,
+      "price": 200,
+      "id": 78
+    },
+    {
+      "code": "0972",
+      "name": "Physics (9-1)",
+      "credit": 4,
+      "price": 100,
+      "id": 79
+    },
+    {
+      "code": "0504",
+      "name": "Portuguese - First Language",
+      "credit": 5,
+      "price": 150,
+      "id": 80
+    },
+    {
+      "code": "0490",
+      "name": "Religious Studies",
+      "credit": 5,
+      "price": 200,
+      "id": 81
+    },
+    {
+      "code": "0499",
+      "name": "Sanskrit",
+      "credit": 3,
+      "price": 200,
+      "id": 82
+    },
+    {
+      "code": "0653",
+      "name": "Science - Combined",
+      "credit": 3,
+      "price": 150,
+      "id": 83
+    },
+    {
+      "code": "0973",
+      "name": "Sciences - Co-ordinated (9-1)",
+      "credit": 3,
+      "price": 200,
+      "id": 84
+    },
+    {
+      "code": "0654",
+      "name": "Sciences - Co-ordinated (Double)",
+      "credit": 3,
+      "price": 100,
+      "id": 85
+    },
+    {
+      "code": "0698",
+      "name": "Setswana - First Language",
+      "credit": 4,
+      "price": 150,
+      "id": 86
+    },
+    {
+      "code": "0495",
+      "name": "Sociology",
+      "credit": 4,
+      "price": 100,
+      "id": 87
+    },
+    {
+      "code": "0502",
+      "name": "Spanish - First Language",
+      "credit": 5,
+      "price": 150,
+      "id": 88
+    },
+    {
+      "code": "0530",
+      "name": "Spanish - Foreign Language",
+      "credit": 3,
+      "price": 200,
+      "id": 89
+    },
+    {
+      "code": "0488",
+      "name": "Spanish - Literature",
+      "credit": 5,
+      "price": 100,
+      "id": 90
+    },
+    {
+      "code": "0474",
+      "name": "Spanish - Literature in Spanish",
+      "credit": 4,
+      "price": 100,
+      "id": 91
+    },
+    {
+      "code": "7160",
+      "name": "Spanish (9-1)",
+      "credit": 3,
+      "price": 100,
+      "id": 92
+    },
+    {
+      "code": "0262",
+      "name": "Swahili",
+      "credit": 5,
+      "price": 150,
+      "id": 93
+    },
+    {
+      "code": "0518",
+      "name": "Thai - First Language",
+      "credit": 3,
+      "price": 100,
+      "id": 94
+    },
+    {
+      "code": "0471",
+      "name": "Travel & Tourism",
+      "credit": 5,
+      "price": 200,
+      "id": 95
+    },
+    {
+      "code": "0513",
+      "name": "Turkish - First Language",
+      "credit": 3,
+      "price": 150,
+      "id": 96
+    },
+    {
+      "code": "0539",
+      "name": "Urdu as a Second Language",
+      "credit": 4,
+      "price": 100,
+      "id": 97
+    },
+    {
+      "code": "0695",
+      "name": "Vietnamese - First Language",
+      "credit": 5,
+      "price": 150,
+      "id": 98
+    },
+    {
+      "code": "0408",
+      "name": "World Literature",
+      "credit": 3,
+      "price": 150,
+      "id": 99
+    }
+  ]
+}
