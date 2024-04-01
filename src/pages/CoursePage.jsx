@@ -11,6 +11,8 @@ import Select from '@mui/material/Select';
 import { CartContext } from '../context/CartContext';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import { Link } from 'react-router-dom';
+import BookIcon from '@mui/icons-material/Book';
+
 const CoursePage = () => {
     const [subject, setSubject] = React.useState('');
     const [rows, setRows] = React.useState(igcse.subjects);
@@ -48,11 +50,11 @@ const CoursePage = () => {
             <Container >
                 <Box my={5} elevation={5}>
                     <div className='bg-[#6facf5] rounded-lg p-5 color-white'>
-                        <Typography variant="h5" gutterBottom>
-                            Student Exam Registration
+                        <Typography variant="h4" gutterBottom sx={{fontWeight: '600'}}>
+                            <BookIcon />Student Exam Registration
                         </Typography>
-                        <Box>
-                            <FormControl sx={{ m: 1, minWidth: 300 }} >
+                        <Box bgcolor={'white'}  >
+                            <FormControl sx={{ m: 1, minWidth: 400 }}  >
                                 <InputLabel id="demo-select-small-label">Select Examination Level</InputLabel>
                                 <Select
                                     labelId="demo-select-small-label"
@@ -72,7 +74,7 @@ const CoursePage = () => {
                         </Box>
                     </div>
                     {cartSize > 0 ? (
-                        <div className='bg-[#198754] rounded-lg p-5 color-white my-2'>
+                        <div className='bg-[#2e7d32] rounded-lg p-5 color-white my-2'>
                             <Link to='/cart'>
                                 <Typography variant='h6'>Procced to checkout <ArrowForwardIcon /></Typography>
                             </Link>

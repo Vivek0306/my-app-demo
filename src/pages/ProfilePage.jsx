@@ -1,16 +1,16 @@
 import React from 'react';
 import Layout from '../components/Layout';
-import PaymentForm from '../components/PaymentForm';
+import Profile from '../components/Profile';
 import { Container } from '@mui/material';
 
-const PaymentPage = () => {
+const ProfilePage = () => {
   return (
     <Layout>
       <Container>
-        <PaymentForm />
+        <Profile />
       </Container>
     </Layout>
   );
 };
 
-export default PaymentPage;
+export default ProfilePage;

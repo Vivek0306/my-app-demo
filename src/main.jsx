@@ -6,10 +6,10 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import PaymentPage from './pages/PaymentPage.jsx';
 import HomePage from './pages/HomePage.jsx';
 import CoursePage from './pages/CoursePage.jsx';
 import CartPage from './pages/CartPage.jsx';
+import ProfilePage from './pages/ProfilePage.jsx';
 import { CartProvider } from './context/CartContext.jsx';
 import 'react-toastify/dist/ReactToastify.css';
 const router = createBrowserRouter([
@@ -26,8 +26,8 @@ const router = createBrowserRouter([
     element: <CartPage />,
   },
   {
-    path: '/payment',
-    element: <PaymentPage />,
+    path: '/profile',
+    element: <ProfilePage />,
   }
 ]);
 

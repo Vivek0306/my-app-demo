@@ -108,6 +108,7 @@ export default function Navbar() {
       onClose={handleMenuClose}
     >
       <Link to='/cart'><MenuItem onClick={handleMenuClose}>Cart</MenuItem></Link>
+      <Link to='/profile'><MenuItem onClick={handleMenuClose}>Profile</MenuItem></Link>
       <Link to='/course'><MenuItem onClick={handleMenuClose}>Registration</MenuItem></Link>
       <MenuItem onClick={handleMenuClose}>My account</MenuItem>
     </Menu>
@@ -154,18 +155,20 @@ export default function Navbar() {
         <p>View Cart</p>
       </MenuItem>
       </Link>
-      <MenuItem onClick={handleProfileMenuOpen}>
-        <IconButton
-          size="large"
-          aria-label="account of current user"
-          aria-controls="primary-search-account-menu"
-          aria-haspopup="true"
-          color="inherit"
-        >
-          <AccountCircle />
-        </IconButton>
-        <p>Profile</p>
-      </MenuItem>
+      <Link to='/profile'>
+        <MenuItem onClick={handleProfileMenuOpen}>
+          <IconButton
+            size="large"
+            aria-label="account of current user"
+            aria-controls="primary-search-account-menu"
+            aria-haspopup="true"
+            color="inherit"
+          >
+            <AccountCircle />
+          </IconButton>
+          <p>Profile</p>
+        </MenuItem>
+      </Link>
     </Menu>
   );
 
@@ -173,18 +176,18 @@ export default function Navbar() {
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static">
         <Toolbar>
+          <Link to='/'>
           <div className="flex gap-4 align-items-center justify-center">
           <img src={ProfileImg} alt="" style={{width: '50px', height:'50px'}}/>
           <Typography
             variant="h6"
             noWrap
             component="div"
-            // sx={{ display: { xs: 'none', sm: 'block' } }}
           >
             Exam Registration
           </Typography>
           </div>
-          
+          </Link>
           <Search 
             sx={{ display: { xs: 'none', sm: 'block' } }}
             >
@@ -198,11 +201,14 @@ export default function Navbar() {
           </Search>
           <Box sx={{ flexGrow: 1 }} />
           <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
+            <Link to='/course'>
             <IconButton size="large" aria-label="show 4 new mails" color="inherit">
-              <Badge badgeContent={4} color="error">
-                <MailIcon />
+              <Badge badgeContent={1000} color="error">
+                <BookIcon />
               </Badge>
-            </IconButton>
+            </IconButton>  
+            </Link>
+            
             <Link to='/cart'>
             <IconButton
               size="large"

@@ -22,7 +22,7 @@ function Sidebar() {
           </ListItemIcon>
           <ListItemText primary="Registration" />
         </ListItem>
-        <ListItem button component={Link} to="/">
+        <ListItem button component={Link} to="/profile">
           <ListItemIcon>
             <PersonIcon />
           </ListItemIcon>
