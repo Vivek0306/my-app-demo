@@ -21,7 +21,7 @@ function Home() {
                     <div className='border-b-2 min-w-full border-stone-950'>
                         <Typography variant='h5' p={1}>Welcome</Typography>
                     </div>
-                    <div className='mt-[50px] flex p-4 items-center justify-content-center flex-row gap-[28px] '>
+                    <div className='mt-[24px] flex p-4 items-center justify-content-center flex-row gap-[28px] '>
                         <div>
                             <img src={ProfileImg} style={{ height: '100px', borderRadius: '10px' }} alt="" />
                         </div>
