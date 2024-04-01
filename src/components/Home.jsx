@@ -27,7 +27,13 @@ function Home() {
                         </div>
                         <div>
                             <Typography variant='h5'>Profile</Typography>
-                            <Typography variant='body'>Click here to view Profile</Typography>
+                            <Link to='/profile' style={{marginTop: '10px'}}>
+                            <Button variant='contained' color='primary' size='small'>
+                                    Click here to view Profile
+                            </Button>
+                            </Link>
+
+                            
                         </div>
                     </div>
 
